@@ -25,7 +25,7 @@ TBD
 Contributions to this project are very welcome! Please follow this [guidelines](CONTRIBUTING.md).
 
 TLDR:
-* Create an issue with prefix: `feature/`, `bugfix/`
+* Create an issue with [label(s)](https://docs.github.com/en/github/managing-your-work-on-github/applying-labels-to-issues-and-pull-requests)
 * Work on the issue
 * Format the code before committing
 * Create the Pull Request
