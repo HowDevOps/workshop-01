@@ -22,6 +22,10 @@ TBD
 
 Contributions to this project are very welcome! Please follow this [guidelines](CONTRIBUTING.md).
 
+## Community
+
+Join us on [Telegram](https://t.me/howdevops) or you can find every related thing at [HowDevOps](https://howdevops.com).
+
 ## License
 
 [Apache 2.0](LICENSE)
