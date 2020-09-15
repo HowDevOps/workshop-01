@@ -2,7 +2,7 @@
 
 This repo contains materials for the the `Workshop-01`.
 
-It's 100% Open Source and licensed under the [[Apache 2.0](LICENSE).
+It's 100% Open Source and licensed under the [Apache 2.0](LICENSE).
 
 ## Features & Todo
 
