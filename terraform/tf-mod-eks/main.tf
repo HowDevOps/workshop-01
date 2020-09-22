@@ -100,6 +100,8 @@ data "kubernetes_service" "ingress_nginx" {
     name      = "ingress-nginx-controller"
     namespace = "ingress-nginx"
   }
+
+  depends_on = [helm_release.ingress-nginx]
 }
 
 data "cloudflare_zones" "domain" {
