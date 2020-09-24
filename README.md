@@ -9,7 +9,7 @@ It's 100% Open Source and licensed under the [Apache 2.0](LICENSE).
 - [x] Terraform code to provision the VPC, EKS
 - [x] Terraform code to install the NGINX Ingress Controller, TLS Certificate
 - [x] Terraform code to automatically update the DNS record in Cloudflare DNS Zone
-- [ ] Terraform code to provision the RDS database
+- [x] Terraform code to provision the RDS database
 - [ ] Dockerfile to build the image of application
 - [ ] Helm chart to deploy application to EKS
 - [ ] Integration with Circle CI
